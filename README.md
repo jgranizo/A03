@@ -1,4 +1,4 @@
-# A03
+# A03 Jeremy Granizo
 Tutorial for connecting Git,Github, and Webstorm together and how to use it
 
 1- Download and install the latest version of Webstorm.
